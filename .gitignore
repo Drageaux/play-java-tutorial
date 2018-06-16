@@ -17,6 +17,7 @@ server.pid
 /dist/
 .cache
 /.g8
+/build
 
 # ---> Java
 *.class
